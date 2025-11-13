@@ -1,9 +1,9 @@
 # 🚀 Ferramenta Inteligente de Orientação de Carreiras (Global Solution 2025.2)
 
-Projeto desenvolvido para a Global Solution 2025.2 ("Future at Work") da [FIAP](https://www.fiap.com.br/), no curso de Ciência da Computação.
-
 **Disciplina:** Pensamento Computacional e Automação com Python
 **Professor:** Alexandre Russi Jr.
+
+
 **Integrantes:** Guilherme Willians de Souza Inácio (RM565319)
 Kauã da Silva Lazarim (RM564625) 
 Nelson Troccoli Santos Neto (RM562815)
