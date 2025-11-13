@@ -1,10 +1,11 @@
 # 🚀 Ferramenta Inteligente de Orientação de Carreiras (Global Solution 2025.2)
 
 **Disciplina:** Pensamento Computacional e Automação com Python
+
 **Professor:** Alexandre Russi Jr.
 
 
-**Integrantes:** Guilherme Willians de Souza Inácio (RM565319)
+Integrantes: Guilherme Willians de Souza Inácio (RM565319)
 Kauã da Silva Lazarim (RM564625) 
 Nelson Troccoli Santos Neto (RM562815)
 ---
